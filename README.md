@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm Biruk, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀<br>🔭 I’m currently working on personal flutter projects<br><br>🌱 I’m currently learning Django and Kubernetes<br><br>❓ Ask me about anything related to Flutter, Django, and other related technologies<br><br>⚡ Fun fact: I use tabs over spaces
+I'm Biruk, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀<br>🔭 I’m currently working on personal flutter projects<br><br>🌱 I’m currently learning Django and MongoDB<br><br>❓ Ask me about anything related to Flutter, Django, and other related technologies<br><br>⚡ Fun fact: I use tabs over spaces
 
 
 ## 🌐 Socials:
