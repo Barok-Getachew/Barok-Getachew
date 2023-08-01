@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **How to scaleup my Experience**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Barok-Getachew](https://github.com/Barok-Getachew)
+- 👨‍💻 All of my projects are available at [https://github.com/Barok-Getachew](@Barok-Getachew)
 
 - 💬 Ask me about **Flutter,Java**
 
@@ -25,6 +25,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
