@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Project in **Medical-AI-Computing** and Data Structure and algorithm <br>👯 I’m looking to collaborate on opensource projects <br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about Flutter, java, laravel, ........<br>⚡ Fun fact I use tabs over space
+🔭 I’m currently working on Flutter Project in **Medical-AI-Computing** and Data Structure and algorithm <br>👯 I’m looking to collaborate on opensource projects <br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about Flutter, java, laravel, ........<br>⚡ Fun fact I hate to sit for long
 
 
 ## 🌐 Socials:
