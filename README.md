@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Project in **Medical-AI-Computing** and Data Structure and algorithm <br>👯 I’m looking to collaborate on opensource projects <br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Django with RSET FRAMEWORK<br>💬 Ask me about Flutter, java, laravel, ........<br>⚡ Fun fact I hate to sit for long, I m not kidding  በቃ ሰራ ሰራ አድርገህ መፋታት ነው የምን ችክ ማለት ነው ፡) :) :)<br><br>
+🔭 I’m currently working as Flutter developer in **Awura computing** and **HBGB Trading** <br>👯 I’m looking to collaborate on Machine Learning projects <br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Django with RSET FRAMEWORK<br>💬 Ask me about Flutter, java, laravel, ........<br>⚡ Fun fact I hate to sit for long, I m not kidding  በቃ ሰራ ሰራ አድርገህ መፋታት ነው የምን ችክ ማለት ነው ፡) :) :)<br><br>
 
 
 ## 🌐 Socials:
