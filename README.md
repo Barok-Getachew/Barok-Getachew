@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a**Flutter developer**, **Mobile Developer.** <br>👯 I’m looking to collaborate on  Mobile App development <br>🤝 I’m looking for help with ML<br🌱 I’m currently learning Django with RSET FRAMEWORK <br>💬 Ask me about Flutter, Django .......<br>⚡ Fun fact I hate to sit for long, br><br>
+🔭 I’m a**Flutter developer**, **Mobile Developer.** <br>👯 I’m looking to collaborate on  Mobile App development <br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Django with RSET FRAMEWORK <br>💬 Ask me about Flutter, Django .......<br>⚡ Fun fact I hate to sit for long, br><br>
 
 
 ## 🌐 Socials:
