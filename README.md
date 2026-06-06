@@ -3,7 +3,7 @@
 🎓 MS Computer Science @ University of Salzburg, Austria  
 💼 Software Engineer with experience building commercial mobile & backend applications,
 🌍 Based in Salzburg | Open to internships in Vienna  
-🌐 Portfolio: [birukgetachew.vercel.app](https://birukgetachew.dev)
+🌐 Portfolio: [birukgetachew.vercel.app](https://birukgetachew.dev)](https://birukgetachew.dev)
 
 ---
 
